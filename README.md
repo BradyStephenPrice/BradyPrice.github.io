@@ -1,3 +1,3 @@
 # BradyPrice.github.io
 
-Hey Brady
+Hey Brady the best farmer tech guy
