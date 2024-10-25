@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
  theme = "Blowfish" # UNCOMMENT THIS LINE
- baseURL = "https://bradystephenprice.github.io/BP/"
+ baseURL = "https://bradystephenprice.github.io/BradyPrice.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
